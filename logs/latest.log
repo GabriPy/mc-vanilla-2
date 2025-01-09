@@ -1,0 +1,39 @@
+[14:21:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:21:31] [ServerMain/INFO]: Loaded 1370 recipes
+[14:21:31] [ServerMain/INFO]: Loaded 1481 advancements
+[14:21:31] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[14:21:31] [Server thread/INFO]: Loading properties
+[14:21:31] [Server thread/INFO]: Default game type: SURVIVAL
+[14:21:31] [Server thread/INFO]: Generating keypair
+[14:21:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:21:32] [Server thread/INFO]: Using epoll channel type
+[14:21:32] [Server thread/INFO]: Preparing level "world"
+[14:21:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:21:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:21:37] [Server thread/INFO]: Time elapsed: 4752 ms
+[14:21:37] [Server thread/INFO]: Done (5.081s)! For help, type "help"
+[14:21:41] [User Authenticator #1/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
+[14:21:42] [Server thread/INFO]: Ghibiri[/81.56.36.157:20531] logged in with entity id 82 at (-38.524333271344375, 124.0, -70.99044868409806)
+[14:21:42] [Server thread/INFO]: Ghibiri joined the game
+[14:21:43] [User Authenticator #2/INFO]: UUID of player ExEnry is b531db4c-6a4f-4d90-b9fe-9e28f9afe551
+[14:21:44] [Server thread/INFO]: ExEnry[/91.254.74.218:56817] logged in with entity id 112 at (-28.5, 123.0, -72.5)
+[14:21:44] [Server thread/INFO]: ExEnry joined the game
+[14:21:48] [User Authenticator #3/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
+[14:21:49] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:51544] logged in with entity id 116 at (-29.5, 122.0, -69.5)
+[14:21:49] [Server thread/INFO]: BlackPillona_96 joined the game
+[14:21:57] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
+[14:21:57] [Server thread/INFO]: BlackPillona_96 left the game
+[14:22:39] [User Authenticator #4/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
+[14:22:39] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:51596] logged in with entity id 366 at (-29.5, 122.0, -69.5)
+[14:22:39] [Server thread/INFO]: BlackPillona_96 joined the game
+[14:25:08] [Server thread/INFO]: BlackPillona_96 has made the advancement [Stone Age]
+[14:25:38] [Server thread/INFO]: BlackPillona_96 has made the advancement [Getting an Upgrade]
