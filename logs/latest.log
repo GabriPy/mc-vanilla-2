@@ -1,46 +1,90 @@
-[14:21:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:21:31] [ServerMain/INFO]: Loaded 1370 recipes
-[14:21:31] [ServerMain/INFO]: Loaded 1481 advancements
-[14:21:31] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[14:21:31] [Server thread/INFO]: Loading properties
-[14:21:31] [Server thread/INFO]: Default game type: SURVIVAL
-[14:21:31] [Server thread/INFO]: Generating keypair
-[14:21:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:21:32] [Server thread/INFO]: Using epoll channel type
-[14:21:32] [Server thread/INFO]: Preparing level "world"
-[14:21:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:21:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:21:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:21:37] [Server thread/INFO]: Time elapsed: 4752 ms
-[14:21:37] [Server thread/INFO]: Done (5.081s)! For help, type "help"
-[14:21:41] [User Authenticator #1/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[14:21:42] [Server thread/INFO]: Ghibiri[/81.56.36.157:20531] logged in with entity id 82 at (-38.524333271344375, 124.0, -70.99044868409806)
-[14:21:42] [Server thread/INFO]: Ghibiri joined the game
-[14:21:43] [User Authenticator #2/INFO]: UUID of player ExEnry is b531db4c-6a4f-4d90-b9fe-9e28f9afe551
-[14:21:44] [Server thread/INFO]: ExEnry[/91.254.74.218:56817] logged in with entity id 112 at (-28.5, 123.0, -72.5)
-[14:21:44] [Server thread/INFO]: ExEnry joined the game
-[14:21:48] [User Authenticator #3/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
-[14:21:49] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:51544] logged in with entity id 116 at (-29.5, 122.0, -69.5)
-[14:21:49] [Server thread/INFO]: BlackPillona_96 joined the game
-[14:21:57] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
-[14:21:57] [Server thread/INFO]: BlackPillona_96 left the game
-[14:22:39] [User Authenticator #4/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
-[14:22:39] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:51596] logged in with entity id 366 at (-29.5, 122.0, -69.5)
-[14:22:39] [Server thread/INFO]: BlackPillona_96 joined the game
-[14:25:08] [Server thread/INFO]: BlackPillona_96 has made the advancement [Stone Age]
-[14:25:38] [Server thread/INFO]: BlackPillona_96 has made the advancement [Getting an Upgrade]
-[14:28:37] [Server thread/INFO]: BlackPillona_96 has made the advancement [Monster Hunter]
-[14:29:26] [Server thread/INFO]: ExEnry has made the advancement [Stone Age]
-[14:29:50] [Server thread/INFO]: ExEnry has made the advancement [Getting an Upgrade]
-[14:31:37] [Server thread/INFO]: ExEnry has made the advancement [Monster Hunter]
-[14:34:41] [Server thread/INFO]: <BlackPillona_96> 26 // 32
-[14:35:17] [Server thread/INFO]: BlackPillona_96 has made the advancement [Acquire Hardware]
-[14:35:43] [Server thread/INFO]: BlackPillona_96 has made the advancement [Isn't It Iron Pick]
+[00:00:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[07:53:01] [Netty Epoll Server IO #6/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+[08:35:13] [User Authenticator #23/INFO]: UUID of player ExEnry is b531db4c-6a4f-4d90-b9fe-9e28f9afe551
+[08:35:13] [Server thread/INFO]: ExEnry[/91.254.74.218:54488] logged in with entity id 101309 at (30.30000001192093, 96.0, 1.300000011920929)
+[08:35:13] [Server thread/INFO]: ExEnry joined the game
+[08:43:52] [Server thread/INFO]: ExEnry lost connection: Disconnected
+[08:43:52] [Server thread/INFO]: ExEnry left the game
+[08:44:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:59:00] [User Authenticator #24/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
+[08:59:01] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:59277] logged in with entity id 103293 at (-30.5, 63.5, 27.5)
+[08:59:01] [Server thread/INFO]: BlackPillona_96 joined the game
+[09:16:36] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
+[09:16:36] [Server thread/INFO]: BlackPillona_96 left the game
+[09:17:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[09:36:13] [User Authenticator #25/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
+[09:36:15] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:61028] logged in with entity id 107357 at (31.763310130553357, 96.0, 2.083651815468693)
+[09:36:15] [Server thread/INFO]: BlackPillona_96 joined the game
+[09:54:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-32, y=124, z=-142} ji{x=-29, y=126, z=-80}
+[09:58:27] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
+[09:58:27] [Server thread/INFO]: BlackPillona_96 left the game
+[09:59:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:00:06] [User Authenticator #26/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
+[10:00:06] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:61101] logged in with entity id 112112 at (-32.01249998807907, 63.0, 35.27902041571251)
+[10:00:06] [Server thread/INFO]: BlackPillona_96 joined the game
+[10:00:14] [Server thread/INFO]: <BlackPillona_96> -2593 105 803
+[10:06:25] [Server thread/INFO]: BlackPillona_96 has made the advancement [Light as a Rabbit]
+[10:34:15] [Server thread/INFO]: <BlackPillona_96> -368 828
+[11:05:41] [Server thread/INFO]: Villager coj['Villager'/132554, l='ServerLevel[world]', x=-308.87, y=81.19, z=448.23] died, message: 'Villager suffocated in a wall'
+[11:09:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-224, y=167, z=197} ji{x=-224, y=165, z=196}
+[11:09:32] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-226, y=166, z=196} ji{x=-225, y=165, z=195}
+[11:23:22] [Server thread/INFO]: Villager coj['Shepherd'/142313, l='ServerLevel[world]', x=-381.51, y=70.19, z=821.39] died, message: 'Shepherd was slain by BlackPillona_96'
+[13:57:54] [User Authenticator #27/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
+[13:57:55] [Server thread/INFO]: Ghibiri[/81.56.36.157:16461] logged in with entity id 161764 at (34.497278579745156, 96.0, 9.138510387915042)
+[13:57:55] [Server thread/INFO]: Ghibiri joined the game
+[13:58:52] [Server thread/INFO]: Ghibiri has made the advancement [A Seedy Place]
+[14:04:31] [Server thread/INFO]: Ghibiri lost connection: Disconnected
+[14:04:31] [Server thread/INFO]: Ghibiri left the game
+[15:53:33] [Server thread/INFO]: Villager coj['Villager'/166748, l='ServerLevel[world]', x=-11.30, y=63.25, z=53.30] died, message: 'Villager was slain by BlackPillona_96'
+[15:53:37] [Server thread/INFO]: Villager coj['Villager'/163576, l='ServerLevel[world]', x=-11.33, y=63.17, z=53.30] died, message: 'Villager was slain by BlackPillona_96'
+[15:53:49] [Server thread/INFO]: Villager coj['Villager'/153738, l='ServerLevel[world]', x=-11.99, y=63.19, z=52.51] died, message: 'Villager was slain by BlackPillona_96'
+[16:16:14] [Server thread/INFO]: BlackPillona_96 has made the advancement [What a Deal!]
+[17:04:56] [Server thread/INFO]: BlackPillona_96 has made the advancement [We Need to Go Deeper]
+[17:04:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3411ms or 68 ticks behind
+[17:06:46] [Server thread/INFO]: BlackPillona_96 has made the advancement [Hot Stuff]
+[17:38:40] [User Authenticator #28/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
+[17:38:40] [Server thread/INFO]: Ghibiri[/81.56.36.157:25688] logged in with entity id 194543 at (-30.5, 63.5, 27.5)
+[17:38:40] [Server thread/INFO]: Ghibiri joined the game
+[17:43:25] [Server thread/INFO]: Ghibiri has made the advancement [We Need to Go Deeper]
+[17:48:01] [Server thread/INFO]: Ghibiri has made the advancement [Hot Stuff]
+[17:49:00] [Server thread/INFO]: <BlackPillona_96> 17 79 19
+[18:02:49] [Server thread/INFO]: Ghibiri lost connection: Disconnected
+[18:02:49] [Server thread/INFO]: Ghibiri left the game

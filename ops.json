@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "16bc20a0-9c8c-471b-a921-c9a5f4d76eb7",
+    "name": "Ghibiri",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
