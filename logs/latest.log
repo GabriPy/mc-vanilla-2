@@ -1,209 +1,63 @@
-[00:34:07] [User Authenticator #33/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
-[00:34:10] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:53148] logged in with entity id 320542 at (-25.26512809368957, 63.0, 27.263254438095583)
-[00:34:10] [Server thread/INFO]: BlackPillona_96 joined the game
-[00:53:36] [Server thread/INFO]: BlackPillona_96 has made the advancement [A Terrible Fortress]
-[00:54:59] [Server thread/INFO]: BlackPillona_96 has made the advancement [Into Fire]
-[00:58:56] [Server thread/INFO]: BlackPillona_96 was fireballed by Blaze
-[00:59:01] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
-[00:59:01] [Server thread/INFO]: BlackPillona_96 left the game
-[01:00:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[10:42:48] [User Authenticator #34/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
-[10:42:50] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:49878] logged in with entity id 325962 at (-25.3808617249647, 63.0, 30.133388718359228)
-[10:42:50] [Server thread/INFO]: BlackPillona_96 joined the game
-[10:43:47] [Server thread/INFO]: BlackPillona_96 has made the advancement [Cover Me with Diamonds]
-[10:49:22] [Server thread/INFO]: BlackPillona_96 has made the advancement [Those Were the Days]
-[10:50:49] [Server thread/INFO]: BlackPillona_96 was doomed to fall by Piglin
-[10:55:07] [Server thread/INFO]: <BlackPillona_96> 276 // 1,572
-[11:11:15] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=81, y=141, z=56} ji{x=81, y=140, z=56}
-[11:11:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=92, y=145, z=59} ji{x=92, y=144, z=58}
-[11:11:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=92, y=145, z=59} ji{x=92, y=144, z=58}
-[11:11:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=92, y=145, z=59} ji{x=92, y=144, z=58}
-[11:11:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=92, y=145, z=59} ji{x=92, y=144, z=58}
-[11:11:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=92, y=145, z=59} ji{x=92, y=144, z=58}
-[11:12:18] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=101, y=158, z=51} ji{x=100, y=156, z=51}
-[11:23:17] [Server thread/INFO]: BlackPillona_96 has made the advancement [Eye Spy]
-[11:25:20] [Server thread/INFO]: BlackPillona_96 has made the advancement [Minecraft: Trial(s) Edition]
-[11:30:13] [Server thread/INFO]: BlackPillona_96 has made the advancement [Not Today, Thank You]
-[11:39:59] [Server thread/INFO]: BlackPillona_96 has made the advancement [Oh Shiny]
-[11:44:23] [Server thread/INFO]: BlackPillona_96 has made the advancement [Crafting a New Look]
-[12:01:26] [Server thread/INFO]: BlackPillona_96 has made the advancement [Who is Cutting Onions?]
-[12:44:36] [Server thread/INFO]: BlackPillona_96 fell from a high place
-[12:46:42] [Server thread/INFO]: Villager coj['Villager'/357486, l='ServerLevel[world]', x=28.50, y=84.56, z=23.50] died, message: 'Villager was slain by Zombie'
-[13:06:25] [Server thread/INFO]: BlackPillona_96 fell from a high place
-[13:09:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=89, y=186, z=108} ji{x=92, y=251, z=110}
-[13:09:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=89, y=186, z=108} ji{x=92, y=251, z=110}
-[13:09:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=89, y=186, z=108} ji{x=92, y=251, z=110}
-[13:09:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=89, y=186, z=108} ji{x=92, y=251, z=110}
-[13:09:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=89, y=186, z=108} ji{x=93, y=281, z=101}
-[14:17:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-351, y=65, z=-3} ji{x=-352, y=64, z=-3}
-[14:17:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-351, y=65, z=-3} ji{x=-352, y=64, z=-3}
-[14:17:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-351, y=65, z=-3} ji{x=-352, y=64, z=-3}
-[14:17:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-351, y=65, z=-3} ji{x=-352, y=64, z=-3}
-[14:17:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-351, y=65, z=-3} ji{x=-352, y=64, z=-3}
-[14:20:30] [Server thread/INFO]: BlackPillona_96 has made the advancement [War Pigs]
-[14:22:15] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-581, y=61, z=37} ji{x=-567, y=52, z=52}
-[14:24:59] [Server thread/INFO]: BlackPillona_96 was slain by Piglin Brute
-[14:32:32] [Server thread/INFO]: BlackPillona_96 has made the advancement [Hidden in the Depths]
-[15:39:08] [Server thread/INFO]: Villager coj['Villager'/375309, l='ServerLevel[world]', x=27.34, y=87.22, z=23.66] died, message: 'Villager was slain by Zombie'
-[15:39:15] [Server thread/INFO]: Villager coj['Villager'/375307, l='ServerLevel[world]', x=25.23, y=88.31, z=25.84] died, message: 'Villager tried to swim in lava'
-[19:00:35] [User Authenticator #35/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[19:00:35] [Server thread/INFO]: Ghibiri[/81.56.36.157:21891] logged in with entity id 412555 at (-18.799078427052045, 63.0, 46.16402050515963)
-[19:00:35] [Server thread/INFO]: Ghibiri joined the game
-[19:07:31] [Server thread/INFO]: Ghibiri has made the advancement [Enchanter]
-[19:14:27] [Server thread/INFO]: Ghibiri has made the advancement [Those Were the Days]
-[19:16:15] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-530, y=60, z=43} ji{x=-482, y=55, z=47}
-[19:17:00] [Server thread/INFO]: Ghibiri was slain by Piglin Brute
-[19:24:36] [Server thread/INFO]: BlackPillona_96 fell from a high place
-[19:24:50] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
-[19:24:50] [Server thread/INFO]: BlackPillona_96 left the game
-[19:36:46] [Server thread/INFO]: ServerSeekerV2 (/46.101.233.169:47464) lost connection: Disconnected
-[19:48:18] [User Authenticator #36/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
-[19:48:18] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:52597] logged in with entity id 420092 at (-25.5, 63.0, 32.5)
-[19:48:18] [Server thread/INFO]: BlackPillona_96 joined the game
-[19:55:22] [Server thread/INFO]: Ghibiri has made the advancement [Eye Spy]
-[19:57:08] [Server thread/INFO]: Ghibiri has made the advancement [Minecraft: Trial(s) Edition]
-[19:58:51] [Server thread/INFO]: Ghibiri has made the advancement [Under Lock and Key]
-[19:59:04] [Server thread/INFO]: BlackPillona_96 has made the advancement [Under Lock and Key]
-[20:03:50] [Server thread/INFO]: Ghibiri has made the advancement [Take Aim]
-[20:21:00] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[20:21:00] [Server thread/INFO]: Ghibiri left the game
-[20:22:13] [User Authenticator #37/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[20:22:13] [Server thread/INFO]: Ghibiri[/81.56.36.157:23055] logged in with entity id 426280 at (296.34940108077785, -27.0, 1685.508241218391)
-[20:22:13] [Server thread/INFO]: Ghibiri joined the game
-[20:26:10] [Server thread/INFO]: BlackPillona_96 was impaled on a stalagmite
-[20:29:07] [Server thread/INFO]: BlackPillona_96 has made the advancement [Take Aim]
-[20:38:11] [Server thread/INFO]: BlackPillona_96 has made the advancement [A Throwaway Joke]
-[20:41:52] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[20:41:52] [Server thread/INFO]: Ghibiri left the game
-[20:41:58] [User Authenticator #38/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[20:41:58] [Server thread/INFO]: Ghibiri[/81.56.36.157:21626] logged in with entity id 430569 at (39.25202358697914, 28.0, 57.900192631271366)
-[20:41:58] [Server thread/INFO]: Ghibiri joined the game
-[20:42:00] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[20:42:00] [Server thread/INFO]: Ghibiri left the game
-[20:42:19] [User Authenticator #39/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[20:42:19] [Server thread/INFO]: Ghibiri[/81.56.36.157:20878] logged in with entity id 430615 at (39.25202358697914, 28.752234345942735, 57.900192631271366)
-[20:42:19] [Server thread/INFO]: Ghibiri joined the game
-[20:42:19] [Server thread/INFO]: Ghibiri tried to swim in lava
-[20:42:41] [Server thread/INFO]: Villager coj['Villager'/431325, l='ServerLevel[world]', x=27.50, y=84.56, z=23.50] died, message: 'Villager was slain by Zombie'
-[20:42:59] [Server thread/INFO]: Ghibiri fell from a high place
-[20:43:29] [Server thread/INFO]: Ghibiri fell from a high place
-[20:43:47] [Server thread/INFO]: Ghibiri was doomed to fall by Skeleton
-[20:44:25] [Server thread/INFO]: BlackPillona_96 has made the advancement [Voluntary Exile]
-[20:45:38] [Server thread/INFO]: Ghibiri has made the advancement [Voluntary Exile]
-[20:45:50] [Server thread/INFO]: Ghibiri was shot by Pillager
-[20:46:11] [Server thread/INFO]: BlackPillona_96 has completed the challenge [Hero of the Village]
-[20:46:11] [Server thread/INFO]: Ghibiri has completed the challenge [Hero of the Village]
-[20:53:02] [Server thread/INFO]: Ghibiri has made the advancement [Who Needs Rockets?]
-[20:53:08] [Server thread/INFO]: BlackPillona_96 has made the advancement [Who Needs Rockets?]
-[20:54:31] [Netty Epoll Server IO #7/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
-	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
-	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
-	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
-	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
-	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
-	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
-	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
-[20:55:37] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[20:55:37] [Server thread/INFO]: Ghibiri left the game
-[20:55:42] [User Authenticator #40/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[20:55:42] [Server thread/INFO]: Ghibiri[/81.56.36.157:30900] logged in with entity id 436114 at (-25.895074761229292, 63.0, 34.600385891702665)
-[20:55:42] [Server thread/INFO]: Ghibiri joined the game
-[20:59:17] [Server thread/INFO]: Villager coj['Villager'/431255, l='ServerLevel[world]', x=-11.30, y=63.30, z=54.08] died, message: 'Villager was slain by BlackPillona_96'
-[20:59:21] [Server thread/INFO]: Villager coj['Villager'/431248, l='ServerLevel[world]', x=-11.30, y=63.38, z=54.01] died, message: 'Villager was slain by BlackPillona_96'
-[20:59:28] [Server thread/INFO]: Villager coj['Villager'/431268, l='ServerLevel[world]', x=-11.30, y=63.43, z=54.70] died, message: 'Villager was slain by BlackPillona_96'
-[20:59:34] [Server thread/INFO]: Villager coj['Villager'/431266, l='ServerLevel[world]', x=-11.30, y=63.00, z=54.70] died, message: 'Villager was slain by BlackPillona_96'
-[20:59:36] [Server thread/INFO]: Villager coj['Villager'/431270, l='ServerLevel[world]', x=-11.32, y=63.20, z=53.30] died, message: 'Villager was slain by BlackPillona_96'
-[20:59:40] [Server thread/INFO]: Villager coj['Villager'/431258, l='ServerLevel[world]', x=-11.30, y=63.26, z=53.30] died, message: 'Villager was slain by BlackPillona_96'
-[20:59:42] [Server thread/INFO]: Villager coj['Villager'/431265, l='ServerLevel[world]', x=-11.97, y=63.47, z=53.74] died, message: 'Villager was slain by BlackPillona_96'
-[20:59:44] [Server thread/INFO]: Villager coj['Villager'/431253, l='ServerLevel[world]', x=-11.30, y=63.17, z=53.30] died, message: 'Villager was slain by BlackPillona_96'
-[20:59:46] [Server thread/INFO]: Villager coj['Villager'/431272, l='ServerLevel[world]', x=-11.97, y=63.28, z=53.30] died, message: 'Villager was slain by BlackPillona_96'
-[21:00:20] [Server thread/INFO]: Villager coj['Villager'/431260, l='ServerLevel[world]', x=5.31, y=63.19, z=44.00] died, message: 'Villager was slain by Ghibiri'
-[21:02:54] [Server thread/INFO]: [Ghibiri: Created new objective [Vita]]
-[21:03:02] [Server thread/INFO]: [Ghibiri: Set display slot list to show objective Vita]
-[21:03:24] [Server thread/INFO]: Ghibiri has made the advancement [Ol' Betsy]
-[21:08:50] [Server thread/INFO]: Ghibiri has made the advancement [A Terrible Fortress]
-[21:10:45] [Server thread/INFO]: BlackPillona_96 fell from a high place
-[21:11:20] [Server thread/INFO]: <Ghibiri> -908 67 -257
-[21:12:50] [Server thread/INFO]: Ghibiri has made the advancement [Cover Me with Diamonds]
-[21:15:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-911, y=62, z=-265} ji{x=-912, y=62, z=-265}
-[21:17:00] [Server thread/INFO]: Ghibiri has made the advancement [Into Fire]
-[21:19:33] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[21:19:33] [Server thread/INFO]: Ghibiri left the game
-[21:19:35] [User Authenticator #41/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[21:19:35] [Server thread/INFO]: Ghibiri[/81.56.36.157:24233] logged in with entity id 443139 at (-939.9799769736683, 68.0, -268.9795126043205)
-[21:19:35] [Server thread/INFO]: Ghibiri joined the game
-[21:20:10] [Server thread/INFO]: Ghibiri was shot by BlackPillona_96
-[21:23:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-249, y=65, z=-3} ji{x=-248, y=65, z=-3}
-[21:23:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-249, y=65, z=-3} ji{x=-248, y=65, z=-3}
-[21:23:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-249, y=65, z=-3} ji{x=-248, y=65, z=-3}
-[21:23:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-249, y=65, z=-3} ji{x=-248, y=65, z=-3}
-[21:23:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-215, y=65, z=-3} ji{x=-187, y=65, z=-3}
-[21:26:35] [Server thread/INFO]: Ghibiri has made the advancement [What a Deal!]
-[21:33:13] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[21:33:13] [Server thread/INFO]: Ghibiri left the game
-[21:33:17] [User Authenticator #42/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[21:33:17] [Server thread/INFO]: Ghibiri[/81.56.36.157:27818] logged in with entity id 448847 at (-18.93269752993411, 63.0, 32.33226547721928)
-[21:33:17] [Server thread/INFO]: Ghibiri joined the game
-[21:34:17] [Server thread/INFO]: Villager coj['Toolsmith'/446416, l='ServerLevel[world]', x=-30.43, y=63.00, z=27.53] died, message: 'Toolsmith burned to death'
-[21:39:21] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[21:39:21] [Server thread/INFO]: Ghibiri left the game
-[21:41:12] [User Authenticator #43/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[21:41:14] [Server thread/INFO]: Ghibiri[/81.56.36.157:31856] logged in with entity id 450706 at (52.40597521480221, 106.0, -17.938763877143693)
-[21:41:14] [Server thread/INFO]: Ghibiri joined the game
-[21:42:51] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[21:42:51] [Server thread/INFO]: Ghibiri left the game
-[21:42:51] [User Authenticator #44/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[21:42:52] [Server thread/INFO]: Ghibiri[/81.56.36.157:22954] logged in with entity id 451134 at (52.40597521480221, 106.0, -17.938763877143693)
-[21:42:52] [Server thread/INFO]: Ghibiri joined the game
-[21:45:05] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[21:45:05] [Server thread/INFO]: Ghibiri left the game
-[21:45:07] [User Authenticator #45/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[21:45:07] [Server thread/INFO]: Ghibiri[/81.56.36.157:18674] logged in with entity id 451566 at (31.670834318130904, 96.0, 8.68481415815613)
-[21:45:07] [Server thread/INFO]: Ghibiri joined the game
-[21:56:24] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[21:56:24] [Server thread/INFO]: Ghibiri left the game
-[21:56:47] [User Authenticator #46/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[21:56:47] [Server thread/INFO]: Ghibiri[/81.56.36.157:31135] logged in with entity id 456933 at (-29.38856506591459, 63.0, 44.3423327685982)
-[21:56:47] [Server thread/INFO]: Ghibiri joined the game
-[21:57:49] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[21:57:49] [Server thread/INFO]: Ghibiri left the game
-[21:58:44] [User Authenticator #47/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[21:58:45] [Server thread/INFO]: Ghibiri[/81.56.36.157:31506] logged in with entity id 457779 at (-29.38856506591459, 63.0, 44.3423327685982)
-[21:58:45] [Server thread/INFO]: Ghibiri joined the game
-[21:59:00] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
-[21:59:00] [Server thread/INFO]: BlackPillona_96 left the game
-[21:59:03] [User Authenticator #48/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
-[21:59:03] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:53295] logged in with entity id 458019 at (156.1908425714705, 149.0, 114.52018901668521)
-[21:59:03] [Server thread/INFO]: BlackPillona_96 joined the game
-[22:04:56] [Server thread/INFO]: Ghibiri has made the advancement [Who's the Pillager Now?]
+[11:21:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:21:12] [ServerMain/INFO]: Loaded 1370 recipes
+[11:21:12] [ServerMain/INFO]: Loaded 1481 advancements
+[11:21:12] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[11:21:12] [Server thread/INFO]: Loading properties
+[11:21:12] [Server thread/INFO]: Default game type: SURVIVAL
+[11:21:12] [Server thread/INFO]: Generating keypair
+[11:21:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:21:13] [Server thread/INFO]: Using epoll channel type
+[11:21:13] [Server thread/INFO]: Preparing level "world"
+[11:21:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:21:18] [Server thread/INFO]: Time elapsed: 5154 ms
+[11:21:18] [Server thread/INFO]: Done (5.530s)! For help, type "help"
+[11:21:35] [User Authenticator #1/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
+[11:21:36] [Server thread/INFO]: Ghibiri[/81.56.36.157:20686] logged in with entity id 39 at (27.98753209870991, 98.34512608459386, 17.398560019943485)
+[11:21:36] [Server thread/INFO]: Ghibiri joined the game
+[11:21:39] [User Authenticator #2/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
+[11:21:39] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:50160] logged in with entity id 252 at (-25.929925407592886, 63.0, 42.02021533731473)
+[11:21:39] [Server thread/INFO]: BlackPillona_96 joined the game
+[11:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[11:22:02] [Server thread/WARN]: Ghibiri moved too quickly! 1.4389491000330636,-0.06723129867141608,10.190292468185575
+[11:22:08] [Server thread/INFO]: [Ghibiri: Teleported Ghibiri to BlackPillona_96]
+[11:23:13] [Server thread/INFO]: <Ghibiri> minecraft:portals
+[11:23:18] [Server thread/INFO]: [Ghibiri: Gave 1 [End Portal Frame] to Ghibiri]
+[11:23:37] [Server thread/INFO]: [Ghibiri: Successfully filled 4 block(s)]
+[11:23:38] [Server thread/INFO]: [BlackPillona_96: Gave 1 [End Portal Frame] to BlackPillona_96]
+[11:23:43] [Server thread/INFO]: [Ghibiri: Successfully filled 9 block(s)]
+[11:23:47] [Server thread/INFO]: [Ghibiri: Successfully filled 9 block(s)]
+[11:24:02] [Server thread/INFO]: [Ghibiri: Successfully filled 1 block(s)]
+[11:24:13] [Server thread/INFO]: [Ghibiri: Successfully filled 1 block(s)]
+[11:24:21] [Server thread/INFO]: [Ghibiri: Successfully filled 1 block(s)]
+[11:25:30] [Server thread/INFO]: [Ghibiri: Successfully filled 1 block(s)]
+[11:26:08] [Server thread/INFO]: [BlackPillona_96: Teleported BlackPillona_96 to -530.500000, 55.000000, 1013.500000]
+[11:26:26] [Server thread/INFO]: BlackPillona_96 was killed
+[11:26:26] [Server thread/INFO]: [BlackPillona_96: Killed BlackPillona_96]
+[11:26:49] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
+[11:28:29] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
+[11:28:33] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
+[11:28:50] [Server thread/INFO]: [BlackPillona_96: Gave 1 [Blue Bed] to BlackPillona_96]
+[11:29:43] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
+[11:29:49] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
+[11:30:06] [Server thread/INFO]: Villager coj['Villager'/1846, l='ServerLevel[world]', x=-11.30, y=63.26, z=53.30] died, message: 'Villager was squished too much'
+[11:30:29] [Server thread/INFO]: Villager coj['Villager'/1853, l='ServerLevel[world]', x=-11.85, y=63.33, z=53.66] died, message: 'Villager was squished too much'
+[11:30:40] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
+[11:31:52] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
+[11:32:37] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
+[11:32:49] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
+[11:33:08] [Server thread/INFO]: [Ghibiri: Set own game mode to Survival Mode]
+[11:33:11] [Server thread/INFO]: [Ghibiri: Made Ghibiri no longer a server operator]
+[11:33:14] [Server thread/INFO]: Ghibiri lost connection: Disconnected
+[11:33:14] [Server thread/INFO]: Ghibiri left the game
+[11:33:14] [Server thread/INFO]: [BlackPillona_96: Made BlackPillona_96 no longer a server operator]
