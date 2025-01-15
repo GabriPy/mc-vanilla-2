@@ -1,63 +1,94 @@
-[11:21:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:21:12] [ServerMain/INFO]: Loaded 1370 recipes
-[11:21:12] [ServerMain/INFO]: Loaded 1481 advancements
-[11:21:12] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[11:21:12] [Server thread/INFO]: Loading properties
-[11:21:12] [Server thread/INFO]: Default game type: SURVIVAL
-[11:21:12] [Server thread/INFO]: Generating keypair
-[11:21:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:21:13] [Server thread/INFO]: Using epoll channel type
-[11:21:13] [Server thread/INFO]: Preparing level "world"
-[11:21:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:21:18] [Server thread/INFO]: Time elapsed: 5154 ms
-[11:21:18] [Server thread/INFO]: Done (5.530s)! For help, type "help"
-[11:21:35] [User Authenticator #1/INFO]: UUID of player Ghibiri is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
-[11:21:36] [Server thread/INFO]: Ghibiri[/81.56.36.157:20686] logged in with entity id 39 at (27.98753209870991, 98.34512608459386, 17.398560019943485)
-[11:21:36] [Server thread/INFO]: Ghibiri joined the game
-[11:21:39] [User Authenticator #2/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
-[11:21:39] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:50160] logged in with entity id 252 at (-25.929925407592886, 63.0, 42.02021533731473)
-[11:21:39] [Server thread/INFO]: BlackPillona_96 joined the game
-[11:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[11:22:02] [Server thread/WARN]: Ghibiri moved too quickly! 1.4389491000330636,-0.06723129867141608,10.190292468185575
-[11:22:08] [Server thread/INFO]: [Ghibiri: Teleported Ghibiri to BlackPillona_96]
-[11:23:13] [Server thread/INFO]: <Ghibiri> minecraft:portals
-[11:23:18] [Server thread/INFO]: [Ghibiri: Gave 1 [End Portal Frame] to Ghibiri]
-[11:23:37] [Server thread/INFO]: [Ghibiri: Successfully filled 4 block(s)]
-[11:23:38] [Server thread/INFO]: [BlackPillona_96: Gave 1 [End Portal Frame] to BlackPillona_96]
-[11:23:43] [Server thread/INFO]: [Ghibiri: Successfully filled 9 block(s)]
-[11:23:47] [Server thread/INFO]: [Ghibiri: Successfully filled 9 block(s)]
-[11:24:02] [Server thread/INFO]: [Ghibiri: Successfully filled 1 block(s)]
-[11:24:13] [Server thread/INFO]: [Ghibiri: Successfully filled 1 block(s)]
-[11:24:21] [Server thread/INFO]: [Ghibiri: Successfully filled 1 block(s)]
-[11:25:30] [Server thread/INFO]: [Ghibiri: Successfully filled 1 block(s)]
-[11:26:08] [Server thread/INFO]: [BlackPillona_96: Teleported BlackPillona_96 to -530.500000, 55.000000, 1013.500000]
-[11:26:26] [Server thread/INFO]: BlackPillona_96 was killed
-[11:26:26] [Server thread/INFO]: [BlackPillona_96: Killed BlackPillona_96]
-[11:26:49] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[11:28:29] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
-[11:28:33] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[11:28:50] [Server thread/INFO]: [BlackPillona_96: Gave 1 [Blue Bed] to BlackPillona_96]
-[11:29:43] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
-[11:29:49] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[11:30:06] [Server thread/INFO]: Villager coj['Villager'/1846, l='ServerLevel[world]', x=-11.30, y=63.26, z=53.30] died, message: 'Villager was squished too much'
-[11:30:29] [Server thread/INFO]: Villager coj['Villager'/1853, l='ServerLevel[world]', x=-11.85, y=63.33, z=53.66] died, message: 'Villager was squished too much'
-[11:30:40] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
-[11:31:52] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[11:32:37] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
-[11:32:49] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[11:33:08] [Server thread/INFO]: [Ghibiri: Set own game mode to Survival Mode]
-[11:33:11] [Server thread/INFO]: [Ghibiri: Made Ghibiri no longer a server operator]
-[11:33:14] [Server thread/INFO]: Ghibiri lost connection: Disconnected
-[11:33:14] [Server thread/INFO]: Ghibiri left the game
-[11:33:14] [Server thread/INFO]: [BlackPillona_96: Made BlackPillona_96 no longer a server operator]
+[00:19:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=48, z=-23} ji{x=31, y=48, z=-24}
+[00:42:58] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
+[00:42:58] [Server thread/INFO]: BlackPillona_96 left the game
+[00:43:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:49:22] [User Authenticator #7/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
+[00:49:22] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:55942] logged in with entity id 219215 at (28.869711671093217, -56.05558730201522, -23.900633709451107)
+[00:49:22] [Server thread/INFO]: BlackPillona_96 joined the game
+[00:49:27] [Server thread/INFO]: BlackPillona_96 fell out of the world
+[00:53:00] [Server thread/INFO]: BlackPillona_96 fell out of the world
+[01:27:52] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
+[01:27:52] [Server thread/INFO]: BlackPillona_96 left the game
+[01:28:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:42:41] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:56870) lost connection: Disconnected
+[02:46:19] [Netty Epoll Server IO #7/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+[05:47:58] [Netty Epoll Server IO #6/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+[09:29:48] [User Authenticator #8/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
+[09:29:49] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:56299] logged in with entity id 227586 at (75.418278039176, 48.0, 2.5977950844448663)
+[09:29:49] [Server thread/INFO]: BlackPillona_96 joined the game
